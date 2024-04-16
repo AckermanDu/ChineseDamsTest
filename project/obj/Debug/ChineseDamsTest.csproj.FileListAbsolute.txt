@@ -1,0 +1,12 @@
+D:\C#Learning\ChineseDamsTest\bin\Debug\ChineseDamsTest.exe.config
+D:\C#Learning\ChineseDamsTest\bin\Debug\ChineseDamsTest.exe
+D:\C#Learning\ChineseDamsTest\bin\Debug\ChineseDamsTest.pdb
+D:\C#Learning\ChineseDamsTest\obj\Debug\ChineseDamsTest.csproj.AssemblyReference.cache
+D:\C#Learning\ChineseDamsTest\obj\Debug\ChineseDamsTest.Properties.Resources.resources
+D:\C#Learning\ChineseDamsTest\obj\Debug\ChineseDamsTest.csproj.GenerateResource.cache
+D:\C#Learning\ChineseDamsTest\obj\Debug\ChineseDamsTest.csproj.CoreCompileInputs.cache
+D:\C#Learning\ChineseDamsTest\obj\Debug\ChineseDamsTest.exe
+D:\C#Learning\ChineseDamsTest\obj\Debug\ChineseDamsTest.pdb
+D:\C#Learning\ChineseDamsTest\obj\Debug\ChineseDamsTest.mainForm.resources
+D:\C#Learning\ChineseDamsTest\obj\Debug\ChineseDamsTest.Image.resources
+D:\C#Learning\ChineseDamsTest\obj\Debug\ChineseDamsTest.Statistics.resources
